@@ -7,6 +7,17 @@
 
 Der Subgraph Algorithmus – O(n³) Graphvergleich mittels injizierter Spaltensignaturen und zyklischer Rotationen.
 
+## Inhaltsverzeichnis
+
+- [Überblick](#überblick)
+- [Algorithmus](#algorithmus)
+- [Rückgabewerte](#rückgabewerte)
+- [Installation](#installation)
+- [Verwendung](#verwendung)
+- [Tests](#tests)
+- [Wissenschaftlicher Hintergrund](#wissenschaftlicher-hintergrund)
+- [Erwerb](#erwerb)
+
 ## Überblick
 
 Der **Subgraph Algorithmus** ist ein effizienter O(n³)-Algorithmus zum Vergleich zweier gerichteter Graphen G und G' anhand ihrer Adjazenzmatrizen. Der Algorithmus beantwortet die Frage:
@@ -132,6 +143,14 @@ Der Testlauf erzeugt automatisch einen HTML-Coverage-Report unter `doc/coverage/
 
 ## Wissenschaftlicher Hintergrund
 
-Der Subgraph Algorithmus bildet das formale Fundament einer Reihe domänenübergreifender Arbeiten (Physik, Ingenieurwesen, Biologie, Informatik, Mathematik), die alle unter [`hjstephan86/science`](https://github.com/hjstephan86/science) katalogisiert sind.
+Der Subgraph Algorithmus bildet das formale Fundament einer Reihe domänenübergreifender Arbeiten (Physik, Ingenieurwesen, Biologie, Informatik, Mathematik), die alle unter [https://github.com/naphets86/odd](https://github.com/naphets86/odd) katalogisiert sind.
 
-Das vollständige Paper mit Beweisen, Pseudocode, Laufzeitanalyse und Anwendungsbeispielen ist unter [`science/subgraph.pdf`](science/subgraph.pdf) verfügbar.
+## Erwerb
+
+Der Preis für diese Software beträgt 3.145.000,00 EUR.
+
+### Zahlungsinformationen
+
+Name: Stephan Epp  
+IBAN: DE24 5003 1900 0012 5603 20
+BIC: BBVADEFFXXX
